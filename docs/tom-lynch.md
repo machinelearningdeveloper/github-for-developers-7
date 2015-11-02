@@ -7,3 +7,5 @@
 **Favorite food:** Spaghetti
 
 **Hobby:** Quilting
+
+**Favorite color:** Green
