@@ -9,3 +9,5 @@
 **Hobby:** Quilting
 
 **Favorite color:** Green
+
+**Favorite ice cream:** Coffee
